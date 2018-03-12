@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="NewTypeScriptFile">
+        <abbreviation name="tsf" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
