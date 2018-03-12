@@ -1,9 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="1.6.0.4" />
-    <option name="selectedTheme" value="LIGHTER" />
     <option name="isMaterialDesign" value="false" />
-    <option name="accentColor" value="3F51B5" />
+    <option name="accentColor" value="00bcd4" />
     <option name="useProjectViewDecorators" value="false" />
     <option name="statusBarTheme" value="false" />
     <option name="tabsHeight" value="50" />
