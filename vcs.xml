@@ -1,4 +1,15 @@
 <application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://01368081@git.sf-express.com/scm/~01368081/next-marm-core-web-01368081.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="E:\platform" />
+  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
   </component>
